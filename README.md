@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a2980,100:26d0ce&height=140&section=header&text=Welcome!&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=git%20commit%20-m%20%22fix%22%20(x47)&descSize=16&descAlignY=68" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%F0%9F%91%8B;%EB%B0%B1%EC%97%94%EB%93%9C%20%26%20AI%20%EC%AA%BD%20%EA%B4%80%EC%8B%AC%EC%9E%88%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4;%EB%B2%84%EA%B7%B8%EB%8A%94%20%EA%B8%B0%EB%8A%A5%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EC%9A%B0%EA%B8%B0%EB%8A%94%20%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4" />
-
 </div>
 
 <br />
