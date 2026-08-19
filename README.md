@@ -77,17 +77,6 @@
 
 <div align="center">
 
-<h2>📊 Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=honghonghonggit&show_icons=true&hide_border=true&theme=graywhite&hide_title=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honghonghonggit&layout=compact&hide_border=true&theme=graywhite&langs_count=6" height="150" />
-
-</div>
-
-<br />
-
-<div align="center">
-
 <h2>🐾 My Farm</h2>
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=honghonghonggit&utm_content=farm">
