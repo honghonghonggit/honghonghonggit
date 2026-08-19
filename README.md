@@ -116,6 +116,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:26d0ce,100:1a2980&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:26d0ce,100:1a2980&height=80&section=footer&text=git%20push%20--force%20(jk)&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
 
 </div>
