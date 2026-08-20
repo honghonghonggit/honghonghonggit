@@ -104,18 +104,6 @@
 
 <div align="center">
 
-<h2>🐾 My Farm</h2>
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=honghonghonggit&utm_content=farm">
-<img src="https://render.gitanimals.org/farms/honghonghonggit" width="600" height="300" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:26d0ce,100:1a2980&height=80&section=footer&text=git%20push%20--force%20(jk)&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
 
 </div>
